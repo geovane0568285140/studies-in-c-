@@ -1,0 +1,4 @@
+C:\Users\geova\OneDrive\Documentos\C#\teste && aulas\teste1\obj\Debug\net8.0\teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geova\OneDrive\Documentos\C#\teste && aulas\teste1\obj\Debug\net8.0\teste1.AssemblyInfoInputs.cache
+C:\Users\geova\OneDrive\Documentos\C#\teste && aulas\teste1\obj\Debug\net8.0\teste1.AssemblyInfo.cs
+C:\Users\geova\OneDrive\Documentos\C#\teste && aulas\teste1\obj\Debug\net8.0\teste1.csproj.CoreCompileInputs.cache
